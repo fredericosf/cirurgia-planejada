@@ -71,7 +71,7 @@ function showResult() {
       Existe um caminho mais inteligente: planejamento.
     </p>
 
-    <a href="https://wa.me/5511999999999?text=Olá! Fiz a simulação da cirurgia planejada e quero entender meu plano."
+    <a href="https://wa.me/5521986119980?text=Olá! Fiz a simulação da cirurgia planejada e quero entender meu plano."
        style="
          display:block;
          padding:15px;
